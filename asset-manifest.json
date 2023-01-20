@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW-Redux/static/css/main.073c9b0a.css",
+    "main.js": "/HW-Redux/static/js/main.4cd2032e.js",
+    "index.html": "/HW-Redux/index.html",
+    "main.073c9b0a.css.map": "/HW-Redux/static/css/main.073c9b0a.css.map",
+    "main.4cd2032e.js.map": "/HW-Redux/static/js/main.4cd2032e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4cd2032e.js"
+  ]
+}
